@@ -1,4 +1,4 @@
-## JiYeon
+## Hello, I'm JiYeon!
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ninano05)](https://solved.ac/ninano05)
 <br>
 ## Tech Stacks
