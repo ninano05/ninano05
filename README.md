@@ -1,8 +1,8 @@
 ## JiYeon
 
-![Ji-Yeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninano05&show_icons=true)
+[![JiYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninano05)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninano05&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninano05&layout=compact)
 <br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ninano05)](https://solved.ac/ninano05)
 <br>
