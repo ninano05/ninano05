@@ -2,10 +2,16 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ninano05)](https://solved.ac/ninano05)
 <br>
 ## Tech Stacks
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<img src"https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+
 
 ## Certificates
 
 ## Projects
+
+## Contact
 
 
 
