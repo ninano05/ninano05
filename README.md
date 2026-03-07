@@ -1,9 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E3A6AE&height=200&text=Hello,%20I'm%20JiYeon!&fontSize=30&fontAlignY=40)
 
-<div align="center">
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ninano05)](https://solved.ac/ninano05)
-</div>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ninano05)](https://solved.ac/ninano05)
+<br>
 
 ## Tech Stacks
 language
