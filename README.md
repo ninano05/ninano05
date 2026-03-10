@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=E3A6AE&height=200&text=:star:Hello,%20I'm%20JiYeon!&fontSize=35&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=E3A6AE&height=200&text=✨Hello,%20I'm%20JiYeon!&fontSize=35&fontAlignY=40)
 <br>
 
 ## Tech Stacks
