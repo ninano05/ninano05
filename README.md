@@ -37,7 +37,7 @@ AI
 ## Projects
 
 ## Contact
-
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/ninano05?theme=light&posts=3)
 
 
 
