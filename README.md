@@ -39,9 +39,9 @@ AI
 ## Contact
 [<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>](https://velog.io/@ninano05)
 
-
+<!--
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ninano05)](https://solved.ac/ninano05)
-
+-->
 
 <!--
 **ninano05/ninano05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
